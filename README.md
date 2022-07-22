@@ -3,7 +3,7 @@
 ## Introduction
 As a part of the course [Intelligent Search and Games](https://www.maastrichtuniversity.nl/meta/414419/intelligent-search-games), the student implements a board game that uses an AI to play against another AI or a human being.
 
-This repository contains the implementation of Breakthru, an abstract board game for two players. The programming language used is Python 3.8 and the library Pygame. The goal of this work is to learn how to apply advanced search techniques like Minimax, Alpha-beta, Negamax, Principal Variation Search (PVS), and Hash tables as data structures.
+This repository contains the implementation of Breakthru, an abstract board game for two players. The programming language used is Python 3.6 and the library Pygame. The goal of this work is to learn how to apply advanced search techniques like Minimax, Alpha-beta, Negamax, Principal Variation Search (PVS), and Hash tables as data structures.
 
 
 ## Code structure
