@@ -13,6 +13,11 @@ This repository contains the implementation of Breakthru, an abstract board game
 - RulesAction.py contains the rules of the game that the players have to follow.
 
 
+## Game
+The game starts with the first menu, in which the user has to select the kind of players.
+
+![alt text]([./directory_1/directory_2/.../directory_n/plot.png](https://raw.githubusercontent.com/diegoWatanabe/breakthru/master/screenshots/first_menu.PNG))
+
 
 ## Limitations
 Due to the machine restrictions and the deepest search that we are able to do in the machine is 2. Another point to take into account is that Python is a interpreted language which makes it slower in recursive tasks comparing to another language like Java.
