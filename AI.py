@@ -36,7 +36,7 @@ def make_move(state, turn, t_table, hashtable):
             [board, aux_turn, winner, changed] = add_piece_to_table(state, turn, m[0], m[1])
         else:
             [board, aux_turn, winner, changed] = add_two_pieces(state, turn, m)
-        temp = minmax(state, gold_pieces, silver_pieces, player, 2, turn, 2)
+        temp = minmax(state, gold_pieces, silver_pieces, player, 2, turn, 1)
         # temp = -alphabeta_negamax(state, gold_pieces, silver_pieces, player, 2, turn, 2, -INF, +INF)
         # temp = -alphabeta_nega_transposition_table(state, gold_pieces, silver_pieces, player, 2, turn, 2, -INF, +INF, t_table, hashtable)
         # temp = -pvs(state, gold_pieces, silver_pieces,  player, 2, turn, 2, -INF, +INF)
