@@ -29,7 +29,5 @@ After that, the game starts. In this case, the two AI are playing each other.
 ![alt text](https://media0.giphy.com/media/SNiM98RnVC9mohnowK/giphy.gif?cid=790b76115cd31df5087c182221aa3908eb446e983d413bc2&rid=giphy.gif&ct=g)
 
 
-After
-
 ## Limitations
 Due to the machine restrictions and the deepest search that we are able to do in the machine is 2. Another point to take into account is that Python is a interpreted language which makes it slower in recursive tasks comparing to another language like Java.
